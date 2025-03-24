@@ -3,3 +3,5 @@
 ####
 #### YOUR CODE HERE 
 ####
+my_file = open("q1.txt","r").read()
+print(my_file)

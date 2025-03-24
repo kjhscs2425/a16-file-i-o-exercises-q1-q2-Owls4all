@@ -3,7 +3,8 @@
 ####
 #### YOUR CODE HERE 
 ####
-
+my_file = open("romeo_and_juliet.txt","r").read()
+print(my_file.count("Juliet"))
 # Count how many times the word "Juliet" appears
 
 ####
